@@ -1,2 +1,1 @@
-<h2>Basic Structure files <h2
-                            >
+<h2>Basic Structure files </h2>
